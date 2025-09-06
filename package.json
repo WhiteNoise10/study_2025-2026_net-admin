@@ -1,10 +1,10 @@
 {
-  "name": "course-directory-student-template",
-  "version": "1.3.1",
-  "description": "Course Catalog Template for Students",
+  "name": "net-admin",
+  "version": "1.0.0",
+  "description": "Администрирование локальных сетей",
   "main": "index.js",
-  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
-  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+  "repository": "git@github.com:WhiteNoise10/study_2025-2026_net-admin.git",
+  "author": "WhiteNoise10 <>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {
